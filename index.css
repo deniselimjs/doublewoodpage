@@ -1,0 +1,19 @@
+body{
+    background-color:  #263547;
+}
+
+#headerlogo {
+    /* width: 70%; */
+}
+
+.columns {
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+section{
+    align-content: center;
+}
+
+
